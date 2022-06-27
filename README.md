@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **next.js, react native**
 
-- 👨‍💻 All of my projects are available at [https://devsg.tech](https://devsg.tech)
+- 👨‍💻 All of my projects are available at [http://devsg.vercel.app](http://devsg.vercel.app)
 
 - 💬 Ask me about **html, css, javascript, php, react**
 
