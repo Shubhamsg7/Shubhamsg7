@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **something cool**
 
-- 🌱 I’m currently learning **react, node.js, express, mongodb, flutter**
+- 🌱 I’m currently learning **next.js, react native**
 
 - 👨‍💻 All of my projects are available at [https://devsg.tech](https://devsg.tech)
 
-- 💬 Ask me about **html, css, javascript, php**
+- 💬 Ask me about **html, css, javascript, php, react**
 
 - 📫 How to reach me **@Shubhamsg7**
 
