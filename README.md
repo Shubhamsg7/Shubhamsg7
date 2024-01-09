@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on something cool<br><br>🌱 I’m currently learning next.js, react native<br><br>👨‍💻 All of my projects are available at http://devsg.vercel.app<br><br>💬 Ask me about html, css, javascript, php, react<br><br>📫 How to reach me @Shubhamsg7</p>
+<p align="left">🔭 I’m currently working on something cool<br><br>🌱 I’m currently learning next.js & react native<br><br>👨‍💻 All of my projects are available at http://devsg.vercel.app<br><br>💬 Ask me about html, css, javascript, php, react<br><br>📫 How to reach me @Shubhamsg7</p>
 
 ###
 
@@ -29,7 +29,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
